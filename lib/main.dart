@@ -1,12 +1,26 @@
 import 'package:flutter/material.dart';
 // import 'bai1/apps/bai1_app.dart';
 // import 'bai2/apps/bai2_app.dart';
-import 'bai3/apps/bai3_app.dart';
+// import 'bai3/apps/bai3_app.dart';
+// import 'bai4/apps/bai4_app.dart';
+// import 'bai5/apps/bai5_app.dart';
+// import 'bai6/apps/bai6_app.dart';
+// import 'bai7/apps/bai7_app.dart';
+// import 'bai8/apps/bai8_app.dart';
+// import 'bai9/apps/bai9_app.dart';
+import 'bai10/apps/bai10_app.dart';
 
 void main() {
   // runApp(const Bai1App());
   // runApp(const Bai2App());
-  runApp(const Bai3App());
+  // runApp(const Bai3App());
+  // runApp(const Bai4App());
+  // runApp(const Bai5App());
+  // runApp(const Bai6App());
+  // runApp(const Bai7App());
+  // runApp(const Bai8App());
+  // runApp(const Bai9App());
+  runApp(const Bai10App());
 }
 
 class MyApp extends StatelessWidget {
